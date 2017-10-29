@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name2">Audio Manager</string>
+    <string name="label">sms</string>
+    <string name="about_desc1">SMS Hider is an audio manager disguised,password protected application that hides and stores the messages from a particular number(even promotional).</string>
+    <string name="app_name">SMS Hider</string>
+    <string name="about_ad_unit_id">ca-app-pub-9828010046708367/6238753737</string>
+    <string name="addcontact_ad_unit_id">ca-app-pub-9828010046708367/3285287331</string>
+    <string name="addedcontact_ad_unit_id">ca-app-pub-9828010046708367/4762020533</string>
+    <string name="home_ad_unit_id">ca-app-pub-9828010046708367/3424888131</string>
+    <string name="homelistfrag_ad_unit_id">ca-app-pub-9828010046708367/7855087739</string>
+    <string name="homelistfragclick_ad_unit_id">ca-app-pub-9828010046708367/1808554138</string>
+    <string name="_id">ca-app-pub-9828010046708367/6300978111</string>
+    <string name="banner_ad_unit_id">ca-app-pub-9828010046708367/6300978111</string>
+    
+      <string name="drawer_open">Menu</string>
+    
+          <string name="drawer_closed"></string>
+    <string name="del">del</string>
+    <string name="action_settings">Settings</string>
+
+      <!-- Nav Drawer Menu Items -->
+    <string-array name="nav_drawer_items">
+        <item >Home</item>
+        <item >Add Contact</item>
+        <item >Added Contacts</item>
+        <item >Share</item>
+        <item >Settings</item>
+        <item >About</item>
+        <item >Exit</item>
+      
+    </string-array>
+    
+    
+     <!-- Nav Drawer List Item Icons -->
+    <!-- Keep them in order as the titles are in -->
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_action_home</item>
+        <item>@drawable/ic_action_addcontact</item>
+        <item>@drawable/ic_action_addedcontacts</item>
+         <item>@drawable/ic_action_share</item>
+        <item>@drawable/ic_action_settings</item>
+        <item>@drawable/ic_action_about</item>
+        <item>@drawable/ic_action_exit</item>
+    </array>
+</resources>

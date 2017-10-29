@@ -1,0 +1,66 @@
+
+
+<RelativeLayout  xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+     xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#81a3d0"
+    tools:context="com.tech9pedia.dontbother.MainActivity" >
+    
+   <EditText 
+       android:id="@+id/edittext"
+        android:layout_width="230dp"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_above="@+id/addnum"
+        android:textColor="#000000"
+       />
+     <Button 
+        android:id="@+id/addnum"
+        android:text="add number"
+        android:clickable="true"
+        
+        android:background="#00CED1"
+         android:layout_centerInParent="true"
+     android:layout_above="@+id/pickC"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content" /> 
+        
+     <TextView 
+         android:id="@+id/pickC"
+         android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingTop="10dp"
+        android:textSize="20sp"
+        android:layout_above="@+id/info"
+         android:layout_centerInParent="true"
+         android:clickable="true"
+        android:text="Or browse contacts"
+        
+         />
+      <TextView 
+         android:id="@+id/info"
+         android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="3dp"
+        android:layout_centerInParent="true"
+        android:text="[enter proper contact number with code as per your region/country or promotional \n like +918765 , ABC....]"
+         />
+     
+       <com.google.android.gms.ads.AdView
+    android:id="@+id/adView"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:layout_alignParentBottom="true"
+    android:layout_centerHorizontal="true"
+    ads:adSize="BANNER"
+    ads:adUnitId="@string/addcontact_ad_unit_id"
+     >
+    </com.google.android.gms.ads.AdView>
+</RelativeLayout>
+
+   
+    
+   

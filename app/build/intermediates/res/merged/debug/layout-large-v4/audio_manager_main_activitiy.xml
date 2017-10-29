@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+     android:layout_height="wrap_content">
+
+<RelativeLayout  
+    android:layout_width="match_parent"
+     android:layout_height="wrap_content"
+     >
+    
+    
+  <TextView
+        android:id="@+id/editText1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+       android:layout_alignParentTop="true"
+       android:layout_centerInParent="true"
+          android:layout_marginTop="15dp"
+      android:textColor="#4169E1"
+      android:typeface="serif"
+      android:textStyle="italic"
+       android:textSize="18sp"
+        android:ems="10"
+        android:text=" AUDIO MANAGER"
+      android:longClickable="true"
+       
+        
+        />
+ <ImageView 
+     android:layout_width="25dp"
+     android:layout_height="wrap_content"
+     android:src="@drawable/ic_launcher_audio"
+     android:layout_toLeftOf="@+id/editText1"
+     />
+    
+    
+     <TextView
+        android:id="@+id/media"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+          android:layout_below="@+id/editText1"
+       android:paddingTop="10dp" 
+        android:text="media"/>
+     
+    <SeekBar
+        android:id="@+id/seekBarMedia"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/media"
+       android:layout_centerHorizontal="true"
+       
+        />
+
+    <TextView
+        android:id="@+id/ringer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/seekBarMedia"
+        android:paddingTop="25dp"
+        android:text="ringer"  />
+      
+     <SeekBar
+        android:id="@+id/seekBarRinger"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ringer"
+       android:layout_centerHorizontal="true"
+       
+        />
+     
+     <TextView
+        android:id="@+id/notif"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+       android:layout_centerHorizontal="true"
+        android:layout_below="@+id/seekBarRinger"
+        android:paddingTop="25dp"
+        android:text="Notifications"  />
+      <SeekBar
+        android:id="@+id/seekBarNotif"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/notif"
+       android:layout_centerHorizontal="true"
+       
+        />
+     
+      <TextView
+        android:id="@+id/system"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+       android:layout_centerHorizontal="true"
+        android:layout_below="@+id/seekBarNotif"
+        android:paddingTop="25dp"
+        android:text="System"  />
+       
+       <SeekBar 
+           android:id="@+id/seekBarSystem"
+            android:layout_width="300dp"
+           android:layout_height="wrap_content"
+           android:layout_centerHorizontal="true"
+           android:layout_below="@+id/system"
+           />
+      
+    <TextView
+        android:id="@+id/alarm"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/seekBarSystem"
+        android:paddingTop="25dp"
+        android:text="Alarm"  />
+     <SeekBar 
+           android:id="@+id/seekBarAlarm"
+            android:layout_width="300dp"
+           android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+           android:layout_below="@+id/alarm"
+            />
+   <TextView
+        android:id="@+id/call"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/seekBarAlarm"
+        android:paddingTop="25dp"
+        android:text="Voice Call"  />
+     <SeekBar 
+           android:id="@+id/seekBarCall"
+            android:layout_width="300dp"
+           android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+           android:layout_below="@+id/call"
+            android:paddingBottom="14dp"
+            />
+     
+     
+</RelativeLayout>
+</ScrollView>

@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.tech9pedia.dontbother.MainActivity" >
+
+     <item
+        android:id="@+id/copyContext"
+        android:title="copy"
+        app:showAsAction="always" />"
+    <item
+        android:id="@+id/deleteContext"
+        android:title="delete"
+        app:showAsAction="never" />"
+    <item
+        android:id="@+id/shareContext"
+        android:title="share"
+        app:showAsAction="never"/>
+
+</menu>

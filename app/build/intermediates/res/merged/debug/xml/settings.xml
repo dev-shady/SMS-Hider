@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    <PreferenceCategory android:title="General Sttings" >
+        <ListPreference 
+            android:title="Long Press Duration"
+            android:defaultValue="3"
+            android:entries="@array/long_press_duration"
+            android:entryValues="@array/long_press_values"
+            android:summary="long press duration after which home screen will be shown"
+            android:key="longPressPref"  />
+         <ListPreference 
+            android:title="Font Size"
+            android:defaultValue="Medium"
+            android:entries="@array/font_size"
+            android:entryValues="@array/font_size_values"
+            android:summary="font size"
+            android:key="fontSizePref"  />
+        
+        
+    </PreferenceCategory>
+    <PreferenceCategory android:title="UI Settings">
+        <CheckBoxPreference android:title="Use disguise"
+            android:summary="initial password is 1234"
+               android:defaultValue="false"
+               android:key="useDisguisePref" />
+        
+    </PreferenceCategory>
+    <PreferenceCategory android:title="Login Settings">
+        <EditTextPreference
+            android:title="Security pin"
+            android:defaultValue="1234"
+            android:key="pinPref" />
+    </PreferenceCategory>
+  
+</PreferenceScreen>
+    

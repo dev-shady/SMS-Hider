@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="48dp" 
+    android:background="@drawable/list_selector">
+
+<!--    <TextView
+        android:id="@+id/number"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:textColor="@color/list_item_title"
+        android:gravity="center_vertical"
+        android:textSize="18sp"
+        android:paddingLeft="7dp"
+         android:textSize="15sp" />  --> 
+    
+  <TextView android:id="@+id/nameConversation"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+         android:layout_alignParentLeft="true"
+        android:layout_marginTop="5dp"
+       
+        android:text="contact"
+        android:padding="3dp"
+        android:textColor="#000000"/>
+  
+  <RelativeLayout android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      android:layout_below="@+id/nameConversation" >
+  <TextView android:id="@+id/textConversation"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+       
+         android:text="text"
+         android:maxLength="10"
+        
+         android:ellipsize="end"
+         android:padding="2dp"
+         
+        android:textColor="#000000"/>
+  
+  <TextView android:id="@+id/dateConversation"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+       android:layout_alignParentRight="true"
+       android:layout_marginTop="2dp"
+       
+         android:text="date"
+         android:padding="2dp"
+         
+        android:textColor="#000000"/>
+  </RelativeLayout>
+    <CheckBox android:id="@+id/checkboxConversation"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+       android:layout_alignParentRight="true" 
+       android:visibility="invisible"
+      /> 
+  
+   <!--  android:minHeight="?android:attr/listPreferredItemHeightSmall"
+          android:background="@drawable/counter_bg"
+        android:textAppearance="?android:attr/textAppearanceListItemSmall" $$$$$$-->
+        
+
+</RelativeLayout>
+       

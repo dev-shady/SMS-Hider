@@ -1,0 +1,246 @@
+[
+    {
+        "merged": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\res\\merged\\debug\\layout\\on_list_click.xml",
+        "source": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\src\\main\\res\\layout\\on_list_click.xml"
+    },
+    {
+        "merged": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_powered_by_google.xml",
+        "source": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.2\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_fragment.xml",
+        "source": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\src\\main\\res\\layout\\list_fragment.xml"
+    },
+    {
+        "merged": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\res\\merged\\debug\\layout\\add_contact_interface.xml",
+        "source": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\src\\main\\res\\layout\\add_contact_interface.xml"
+    },
+    {
+        "merged": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_controller_material_dialog_b.xml",
+        "source": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\layout\\mr_media_route_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\res\\merged\\debug\\layout\\audio_manager_main_activitiy.xml",
+        "source": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\src\\main\\res\\layout\\audio_manager_main_activitiy.xml"
+    },
+    {
+        "merged": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ad_frag.xml",
+        "source": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\src\\main\\res\\layout\\ad_frag.xml"
+    },
+    {
+        "merged": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_prediction.xml",
+        "source": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.2\\res\\layout\\place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\res\\merged\\debug\\layout\\drawer_list_item.xml",
+        "source": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\src\\main\\res\\layout\\drawer_list_item.xml"
+    },
+    {
+        "merged": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\res\\merged\\debug\\layout\\added_contacts.xml",
+        "source": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\src\\main\\res\\layout\\added_contacts.xml"
+    },
+    {
+        "merged": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_list_item.xml",
+        "source": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\layout\\mr_media_route_list_item.xml"
+    },
+    {
+        "merged": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\res\\merged\\debug\\layout\\password_activity.xml",
+        "source": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\src\\main\\res\\layout\\password_activity.xml"
+    },
+    {
+        "merged": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_fragment.xml",
+        "source": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.2\\res\\layout\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_chooser_dialog.xml",
+        "source": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\layout\\mr_media_route_chooser_dialog.xml"
+    },
+    {
+        "merged": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_progress.xml",
+        "source": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.2\\res\\layout\\place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\res\\merged\\debug\\layout\\passwordui.xml",
+        "source": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\src\\main\\res\\layout\\passwordui.xml"
+    },
+    {
+        "merged": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\res\\merged\\debug\\layout\\about.xml",
+        "source": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\src\\main\\res\\layout\\about.xml"
+    },
+    {
+        "merged": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\res\\merged\\debug\\layout\\passui.xml",
+        "source": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\src\\main\\res\\layout\\passui.xml"
+    },
+    {
+        "merged": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\res\\merged\\debug\\layout\\conversation_list_item.xml",
+        "source": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\src\\main\\res\\layout\\conversation_list_item.xml"
+    },
+    {
+        "merged": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\res\\merged\\debug\\layout\\filter.xml",
+        "source": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\src\\main\\res\\layout\\filter.xml"
+    },
+    {
+        "merged": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_frag_data.xml",
+        "source": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\src\\main\\res\\layout\\list_frag_data.xml"
+    },
+    {
+        "merged": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\res\\merged\\debug\\layout\\conversation_list.xml",
+        "source": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\src\\main\\res\\layout\\conversation_list.xml"
+    },
+    {
+        "merged": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\res\\merged\\debug\\layout\\text_fragment.xml",
+        "source": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\src\\main\\res\\layout\\text_fragment.xml"
+    },
+    {
+        "merged": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\res\\merged\\debug\\layout\\audio.xml",
+        "source": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\src\\main\\res\\layout\\audio.xml"
+    }
+]

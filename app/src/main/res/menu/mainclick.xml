@@ -1,0 +1,31 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" >
+
+    <item
+        android:id="@+id/shareMsg"
+        android:title="share"
+        android:icon="@drawable/ic_action_shareab"
+        app:showAsAction="always" />"
+      <item
+        android:id="@+id/copyMsg"
+        android:title="copy"
+        android:icon="@drawable/ic_action_copy"
+        app:showAsAction="always" />
+        <item
+        android:id="@+id/replyMsg"
+        android:title="reply"
+        android:icon="@drawable/ic_action_fwd"
+        app:showAsAction="always" />
+          
+         <item
+        android:id="@+id/deleteMsg"
+        android:title="delete"
+        android:icon="@drawable/ic_action_discard"
+        app:showAsAction="ifRoom" />"
+       
+ 
+       
+    
+
+</menu>

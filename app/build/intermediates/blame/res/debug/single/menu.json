@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\res\\merged\\debug\\menu\\cl.xml",
+        "source": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\src\\main\\res\\menu\\cl.xml"
+    },
+    {
+        "merged": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\res\\merged\\debug\\menu\\context.xml",
+        "source": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\src\\main\\res\\menu\\context.xml"
+    },
+    {
+        "merged": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main_for_ginger.xml",
+        "source": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\src\\main\\res\\menu\\main_for_ginger.xml"
+    },
+    {
+        "merged": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\res\\merged\\debug\\menu\\cab.xml",
+        "source": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\src\\main\\res\\menu\\cab.xml"
+    },
+    {
+        "merged": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\res\\merged\\debug\\menu\\del_main_ginger.xml",
+        "source": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\src\\main\\res\\menu\\del_main_ginger.xml"
+    },
+    {
+        "merged": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\res\\merged\\debug\\menu\\cl_ginger.xml",
+        "source": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\src\\main\\res\\menu\\cl_ginger.xml"
+    },
+    {
+        "merged": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\res\\merged\\debug\\menu\\mainclick.xml",
+        "source": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\src\\main\\res\\menu\\mainclick.xml"
+    },
+    {
+        "merged": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\res\\merged\\debug\\menu\\list_frag_menu.xml",
+        "source": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\src\\main\\res\\menu\\list_frag_menu.xml"
+    },
+    {
+        "merged": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\build\\intermediates\\res\\merged\\debug\\menu\\added_contacts_menu.xml",
+        "source": "F:\\Android\\AndroidStudioProjects\\Don'tBother\\app\\src\\main\\res\\menu\\added_contacts_menu.xml"
+    }
+]

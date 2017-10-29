@@ -1,0 +1,87 @@
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+<RelativeLayout  
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#81a3d0"
+   
+    tools:context="com.tech9pedia.dontbother.MainActivity" >
+   
+     <TextView 
+         android:id="@+id/version"
+         android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingTop="10dp"
+        android:textStyle="bold"
+       
+        android:text="Version:0.1 beta" 
+        
+         />
+     
+      <TextView 
+         android:id="@+id/versionBelow"
+         android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/version"
+        android:layout_margin="3dp"
+        android:text="@string/about_desc1"
+         />
+     
+       <TextView 
+         android:id="@+id/features"
+         android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+         android:layout_below="@+id/versionBelow"
+        android:paddingTop="15dp"
+        android:textStyle="bold"
+        android:text="Features:" 
+        />
+       <TextView 
+         android:id="@+id/featuresBelow"
+         android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/features"
+        android:layout_margin="3dp"
+        android:text="•Choose any phone number including promotional messages number to hide. \n
+•You won’t even get notification when you will receive SMS from any of the selected numbers.\n
+•Access all hidden texts from the SMS Hider app via an easy to use interface.\n
+•Add number by typing it either manually or import from your device’s phonebook.\n
+•PIN protect app with PIN of your choice along with fully working Audio Manager as the disguise screen. No restrictions over choice of length for adding PIN although we aren’t responsible if you choose an easy to crack PIN ;-)\n
+•Filter hidden SMS by date or sender’s name.\n
+•Reply to SMS, forward SMS, Share it with others and copy to clipboard.\n
+•Muti-select option to delete hidden SMS and Sort SMS by time.\n
+        " />
+       
+          <TextView 
+         android:id="@+id/contact"
+         android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+         android:layout_below="@+id/featuresBelow"
+        android:paddingTop="15dp"
+        android:textStyle="bold"
+        android:text="Contact us:" 
+        />
+           <TextView 
+         android:id="@+id/contactBelow"
+         android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/contact"
+        android:layout_margin="3dp"
+        android:text="If you run into some bug or have some suggestions, feel free to contact. \n amitkrdeveloper@gmail.com" />
+  <com.google.android.gms.ads.AdView
+    android:id="@+id/adView"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:layout_below="@+id/contactBelow"
+    android:layout_centerHorizontal="true"
+    ads:adSize="BANNER"
+    ads:adUnitId="@string/about_ad_unit_id"
+     >
+    </com.google.android.gms.ads.AdView>
+</RelativeLayout>
+
+</ScrollView>
